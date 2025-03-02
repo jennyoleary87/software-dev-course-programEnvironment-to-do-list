@@ -1,1 +1,18 @@
 # To-Do List
+
+/*
+03-02-25
+Add Complete Git Lesson
+Add Review HTML Basics
+Add Start JavaScript exercises
+*/
+
+<body>
+
+<ul>
+<li>Complete Git Lesso</li>
+<li>Review HTML Basics</li>
+<li>Start JavaScript exercises</li>
+</ul>
+
+</body>
